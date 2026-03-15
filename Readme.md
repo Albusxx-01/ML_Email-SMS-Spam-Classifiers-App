@@ -1,4 +1,4 @@
-# Text Classification Web App (Streamlit)
+# Email/SMS Spam Classification Web App (Streamlit)
 
 ## Introduction
 This project is a deployed web application built using Streamlit that allows users to classify text using a trained machine learning model. The application takes user input text, processes it using natural language preprocessing techniques, and predicts its category using a trained TF-IDF + Multinomial Naive Bayes model.
